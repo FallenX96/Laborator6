@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS notite (
+    id SERIAL PRIMARY KEY,
+    continut TEXT
+);
